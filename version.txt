@@ -1,2 +1,3 @@
-1
+2
+
 https://github.com/mihailkotovski/text-animation-dex/raw/refs/heads/main/text_animation.dex
