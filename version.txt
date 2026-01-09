@@ -1,2 +1,2 @@
-1
-https://github.com/mihailkotovski/text-animation-dex/raw/refs/heads/main/text_animation.dex
+7
+https://github.com/mihailkotovski/text-animation-dex-test/raw/refs/heads/main/text_animation.dex
